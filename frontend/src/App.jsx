@@ -59,6 +59,9 @@ function App() {
       <header className="cabecalho">
         <h1>VIO WEB</h1>
         <p>Venda de Ingressos Online</p>
+        <p className="aluno">
+          Aluno: Matheus Junior Marques · Turma: 4º Semestre DSM
+        </p>
       </header>
 
       <main className="conteudo">

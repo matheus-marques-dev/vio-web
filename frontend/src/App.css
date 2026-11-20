@@ -27,6 +27,12 @@ body {
     margin-bottom: 0;
 }
 
+.cabecalho .aluno {
+    margin-top: 12px;
+    font-weight: bold;
+    color: #ffd54f;
+}
+
 .conteudo {
     display: flex;
     justify-content: center;
